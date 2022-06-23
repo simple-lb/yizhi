@@ -1,0 +1,1 @@
+<view><block wx:if="{{r0}}"><canvas id="{{a}}" canvas-id="{{b}}" style="{{'width:' + c + ';' + ('height:' + d)}}"/></block></view>

@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "lime-clipper": "./limeClipper/limeClipper"
+  }
+}
